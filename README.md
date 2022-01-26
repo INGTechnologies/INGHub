@@ -1,2 +1,2 @@
 # ING Hub
-ING Hub is an application that help you manage your ING game projects, [ING](github.com/INGTechnologies/ING) engines and editor.
+ING Hub is an application that help you manage your ING game projects, [ING](github.com/INGTechnologies/ING) engine and editor.
